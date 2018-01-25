@@ -1,0 +1,49 @@
+
+
+
+#wrapper{
+
+width:970px;
+background-color:blue;
+}
+
+#navigation{
+background-color:rgb(131, 131, 192);
+height: 260px;
+width: 100px;
+float: left;
+display:block;
+padding:5px;
+margin: 30px;
+font-size: small;
+}
+
+#header{
+height: 25px;
+
+background-color:red;
+}
+
+#main_content{
+height:300px;
+width:800px;
+background-color:rgb(5, 5, 61);
+display: block;
+float:right;   
+}
+
+#footer{
+display:inline-block;
+background-color:grey ;
+height: 40px;
+width: 970px;
+
+}
+
+
+
+
+
+
+
+
